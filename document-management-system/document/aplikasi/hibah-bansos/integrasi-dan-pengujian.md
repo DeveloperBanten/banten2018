@@ -29,7 +29,7 @@ Untuk saat pengintegrasian antara aplikasi E-hibahbansos belum dapat dilakukan k
 
 | Tampilan | URL/ Image                               | Ada  | Tidak |
 | -------- | ---------------------------------------- | ---- | ----- |
-| Tampilan awal umum    | [![tampilan awal](../hibah-bansos/images/desain-dan-perancangan/tampilan-awal.png)](http://ehibahbansos.bantenprov.go.id/) |      |       |
+| Tampilan awal umum    | [![tampilan awal](../hibah-bansos/images/integrasi-dan-pengujian/tampilan-awal.png)](http://ehibahbansos.bantenprov.go.id/) |      |       |
 
 
 
