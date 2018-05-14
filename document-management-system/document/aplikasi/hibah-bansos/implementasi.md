@@ -52,6 +52,16 @@ Untuk memulai akses terhadap aplikasi Ehibah-Bansos ini:
 
 [![use awal](../hibah-bansos/images/impelementasi/tampilan-awal.png)](../hibah-bansos/images/impelementasi/tampilan-awal.png)
 
+### 2.3 Menu Tentang
+1. E-Hibah Bansos Provinsi Banten, yang membahas tentang apa itu E-Hibah Bansos.
+
+2. E-Hibah Bansos, yang berisikan mengenai kriteria untuk pemberian hibah, kepada siapa saja pemberian bansos berupa uang dan barang, apa saja yang dapat dilakukan oleh seluruh masyarakat dan organisasi lingkup Provinsi Banten dalam kegiatan E-Hibah Bansos.
+
+3. Tahapan E-Hibah Bansos, yang membahs mengenai tahapan dalam pengelolaan E-Hibah Bansos.
+
+#### 2.3.1 Tahapan
+Pada konten ini membahas mengenai workflow dalam pengelolaan dana E-Hibah Bansos dari penyerahan dokumen ke Gubernur oleh OPD dan masyarakat hingga ke proses pertanggungjawaban pelaporan masyarakat.
+
 ## 3. Tampilan Super Admin
 Untuk melakukan login sebagai superadmin maka dapat mengklik icon "orang" pada sebelah kanan atas aplikasi Ehibah-Bansos.
 Maka pada layar akan tampak menu login situs Ehibah-Bansos seperti dibawah ini:
@@ -64,21 +74,4 @@ Setelah user memasukan Id dan Password untuk Log in sebagai super admin, maka ta
 
 Seperti Tampilan diatas terdapat modul-modul dari Aplikasi Ehibah-Bansos pada super admin seperti, Tentang, Proposal, Koreksi, CMS dan Laporan.
 
-### 3.1 Tampilan Tentang Ehibah-Bansos Superadmin
-Halaman ini dapat diakses dengan cara, meng-klik tulisan "TENTANG" pada bagian atas aplikasi E-Bansos, sehingga akan menampilkan tampilan menu "Tentang" seperti ini:
 
-[![tentang](../hibah-bansos/images/impelementasi/tampilan-tentang-sa.png)](../hibah-bansos/images/impelementasi/tampilan-tentang-sa.png)
-
-#### 3.1.1 Tentang E-Bansos Banten
-Pada konten ini membahas mengenai
-
-1. E-Hibah Bansos Provinsi Banten, yang membahas tentang apa itu E-Hibah Bansos.
-
-2. E-Hibah Bansos, yang berisikan mengenai kriteria untuk pemberian hibah, kepada siapa saja pemberian bansos berupa uang dan barang, apa saja yang dapat dilakukan oleh seluruh masyarakat dan organisasi lingkup Provinsi Banten dalam kegiatan E-Hibah Bansos.
-
-3. Tahapan E-Hibah Bansos, yang membahs mengenai tahapan dalam pengelolaan E-Hibah Bansos.
-
-#### 3.1.2 Tahapan
-Pada konten ini membahas mengenai workflow dalam pengelolaan dana E-Hibah Bansos dari penyerahan dokumen ke Gubernur oleh OPD dan masyarakat hingga ke proses pertanggungjawaban pelaporan masyarakat.
-
-### 4. 
