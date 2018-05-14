@@ -126,17 +126,43 @@ Berikut ini adalah hasil eksekusi sistem informasi Dashboard
 [![dashboard-awal-login](../hibah-bansos/images/desain-dan-perancangan/login.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-awal-login.jpg)
 #### 3.4.3 Layout Tampilan Registrasi
 [![dashboard-super-admin](../hibah-bansos/images/desain-dan-perancangan/registrasi.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-super-admin.jpg)
-#### 3.4.4 Layout Tampilan Superadmin
-[![dashboard-admin](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
-#### 3.4.5 Layout Tampilan Pendaftar Hibah Bansos
-[![dashboard-gubernur](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-gubernur.jpg)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-gubernur.jpg)
-#### 3.4.6 Layout Dashboard OPD
-[![dashboard-kependudukan](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-kependudukan.jpg)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-kependudukan.jpg)
-#### 3.4.7 Layout Dashboard Inspektorat
-[![dashboard-kepegawaian](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-kepegawaian.jpg)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-kepegawaian.jpg)
-#### 3.4.8 Layout Dashboard TAPD
-[![dashboard-kependidikan](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-kependidikan.jpg)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-kependidikan.jpg)
-#### 3.4.9 Layout Dashboard BPKAD
+#### 3.4.4 Layout Tampilan Tentang
+[![Tentang](../hibah-bansos/images/desain-dan-perancangan/layout_tentang.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-super-admin.jpg)
+#### 3.4.5 Layout Tampilan Proposal
+[![Tentang](../hibah-bansos/images/desain-dan-perancangan/layout_proposal.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-super-admin.jpg)
+#### 3.4.6 Layout Tampilan Laporan
+[![dashboard-superadmin](../hibah-bansos/images/desain-dan-perancangan/layout_laporan.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+#### 3.4.7 Layout Tampilan Superadmin
+[![dashboard-superadmin](../hibah-bansos/images/desain-dan-perancangan/tampilan-awal_superadmin.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+##### 3.4.7.1 Layout Tampilan Koreksi
+[![koreksi](../hibah-bansos/images/desain-dan-perancangan/layout_koreksi.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+##### 3.4.7.2 Layout Tampilan CMS
+[![koreksi](../hibah-bansos/images/desain-dan-perancangan/layout_cms.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+#### 3.4.8 Layout Tampilan Pendaftar Hibah Bansos
+[![pendaftar](../hibah-bansos/images/desain-dan-perancangan/layout_awal-pendaftar.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+##### 3.4.8.1 Layout Tampilan Daftar
+[![koreksi](../hibah-bansos/images/desain-dan-perancangan/layout_daftar.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+##### 3.4.8.2 Layout Tampilan LPJ
+[![koreksi](../hibah-bansos/images/desain-dan-perancangan/layout_lpj.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+#### 3.4.9 Layout Tampilan OPD
+[![tampilan OPD](../hibah-bansos/images/desain-dan-perancangan/layout_awal-opd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+##### 3.4.9.1 Layout Tampilan Daftar OPD
+[![koreksi](../hibah-bansos/images/desain-dan-perancangan/layout_daftar-opd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+##### 3.4.9.2 Layout Tampilan Cek Berkas
+[![koreksi](../hibah-bansos/images/desain-dan-perancangan/layout_cek-berkas.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+##### 3.4.9.3 Layout Tampilan Pemberian Rekomendasi
+[![koreksi](../hibah-bansos/images/desain-dan-perancangan/layout_opd-rekomendasi.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+#### 3.4.10 Layout Tampilan Inspektorat
+[![tampilan OPD](../hibah-bansos/images/desain-dan-perancangan/layout_awal-inspektorat.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+##### 3.4.10.1 Layout Tampilan Rekomendasi dan Verifikasi
+[![koreksi](../hibah-bansos/images/desain-dan-perancangan/layout_rekom-dan-verifikasi.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+#### 3.4.11 Layout Dashboard TAPD
+[![tampilan OPD](../hibah-bansos/images/desain-dan-perancangan/layout_awal-tapd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+##### 3.4.9.1 Layout Tampilan Verifikasi
+[![koreksi](../hibah-bansos/images/desain-dan-perancangan/layout_verifikasi-tapd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+##### 3.4.9.2 Layout Tampilan Generate
+[![koreksi](../hibah-bansos/images/desain-dan-perancangan/layuot_generate.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+#### 3.4.12 Layout Dashboard BPKAD
 [![dashboard-kesehatan](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-kesehatan.jpg)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-kesehatan.jpg)
 
 ## 4.PENUTUP
