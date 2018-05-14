@@ -50,10 +50,10 @@ Untuk memulai akses terhadap aplikasi Ehibah-Bansos ini:
 2.	Kemudian tekan Enter pada tombol keyboard atau klik tombol GO pada browser.
 3.	Akan muncul tampilan halaman depan aplikasi E-Bansos sebagai berikut:
 
-[![use awal](../hibah-bansos/images/impelementasi/tampilan-ehibah-bansos.png)](../hibah-bansos/images/impelementasi/tampilan-ehibah-bansos.png)
+[![use awal](../hibah-bansos/images/implementasi/tampilan-ehibah-bansos.png)](../hibah-bansos/images/implementasi/tampilan-ehibah-bansos.png)
 
 ### 2.3 Menu Tentang
-[![tentang](../hibah-bansos/images/impelementasi/tentang-ehibah-bansos.png)](../hibah-bansos/images/impelementasi/tentang-ehibah-bansos.png)
+[![tentang](../hibah-bansos/images/implementasi/tentang-ehibah-bansos.png)](../hibah-bansos/images/implementasi/tentang-ehibah-bansos.png)
 
 1. E-Hibah Bansos Provinsi Banten, yang membahas tentang apa itu E-Hibah Bansos.
 
@@ -68,35 +68,35 @@ Pada konten ini membahas mengenai workflow dalam pengelolaan dana E-Hibah Bansos
 Untuk melakukan login sebagai superadmin maka dapat mengklik icon "orang" pada sebelah kanan atas aplikasi Ehibah-Bansos.
 Maka pada layar akan tampak menu login situs Ehibah-Bansos seperti dibawah ini:
 
-[![login](../hibah-bansos/images/impelementasi/tampilan-login.png)](../hibah-bansos/images/impelementasi/tampilan-login.png)
+[![login](../hibah-bansos/images/implementasi/tampilan-login.png)](../hibah-bansos/images/implementasi/tampilan-login.png)
 
 Setelah user memasukan Id dan Password untuk Log in sebagai super admin, maka tampilan akan menujukan seperti gambar dibawah ini:
 
-[![dashboard](../hibah-bansos/images/impelementasi/tampilan-dashboard-sa.png)](../hibah-bansos/images/impelementasi/tampilan-dashboard-sa.png)
+[![dashboard](../hibah-bansos/images/implementasi/tampilan-dashboard-sa.png)](../hibah-bansos/images/implementasi/tampilan-dashboard-sa.png)
 
 Seperti Tampilan diatas terdapat modul-modul dari Aplikasi Ehibah-Bansos pada super admin seperti, Koreksi, CMS dan Laporan.
 
 ### 3.1 Menu Koreksi
 Tampilan ini dapat diakses dengan cara mengklik "Koreksi" pada bagian atas aplikasi Ehibah-Bansos, sehingga akan memunculkan tampilan seperti ini:
 
-[![Koreksi](../hibah-bansos/images/impelementasi/tampilan-koreksi-sa.png)](../hibah-bansos/images/impelementasi/tampilan-koreksi-sa.png)
+[![Koreksi](../hibah-bansos/images/implementasi/tampilan-koreksi-sa.png)](../hibah-bansos/images/implementasi/tampilan-koreksi-sa.png)
 
 Pada tampilan ini Superadmin dapat melihat semua pelaporan hibah dan bansos dari setiap OPD, dari mulai proses permohonan sampai dengan persetujuan dari proposal pelapor tersebut.
 
 ### 3.2 Menu CMS
 Tampilan ini dapat diakses dengan cara mengklik "CMS" pada bagian atas aplikasi Ehibah-Bansos, sehingga akan memunculkan tampilan seperti ini:
 
-[![cms](../hibah-bansos/images/impelementasi/tampilan-cms-sa.png)](../hibah-bansos/images/impelementasi/tampilan-cms-sa.png)
+[![cms](../hibah-bansos/images/implementasi/tampilan-cms-sa.png)](../hibah-bansos/images/implementasi/tampilan-cms-sa.png)
 
 Pada tampilan ini Superadmin dapat melihat semua manajemen pengguna dari Aplikasi Ehibah-Bansos, mulai dari Koordinator, umum, sampai OPD.
 
 ### 3.3 Menu Laporan
 Tampilan ini dapat diakses dengan cara mengklik "Laporan" pada bagian atas aplikasi Ehibah-Bansos, sehingga akan memunculkan tampilan seperti ini:
 
-[![laporan](../hibah-bansos/images/impelementasi/tampilan-laporan-sa.png)](../hibah-bansos/images/impelementasi/tampilan-laporan-sa.png)
+[![laporan](../hibah-bansos/images/implementasi/tampilan-laporan-sa.png)](../hibah-bansos/images/implementasi/tampilan-laporan-sa.png)
 
 Pada tampilan ini Superadmin dapat membuat laporan pertanggung jawaban untuk setiap laporan yang ada, dengan cara mengklik “Tambah” pada seperti diatas dan mengisi form yang tersedia. Maka akan tampil seperti gambar dibawah ini:
 
-[![tambah laporan](../hibah-bansos/images/impelementasi/tampilan-tambah-laporan-sa.png)](../hibah-bansos/images/impelementasi/tampilan-tambah-laporan-sa.png)
+[![tambah laporan](../hibah-bansos/images/implementasi/tampilan-tambah-laporan-sa.png)](../hibah-bansos/images/implementasi/tampilan-tambah-laporan-sa.png)
 
 
