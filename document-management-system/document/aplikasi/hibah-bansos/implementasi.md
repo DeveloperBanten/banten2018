@@ -31,15 +31,15 @@ Deskripsi Umum kebutuhan aplikasi yang akan diimplementasikan meliputi semua inf
 Adapun struktur menu pada aplikasi E-Bansos adalah sebagai berikut:
 
 #### 1.	Menu Dashboard
-•	Tentang
-•	Proposal Hibah
-•	Mendaftar  Hibah Bansos
+- Tentang
+- Proposal Hibah
+- Mendaftar  Hibah Bansos
 #### 2.	Menu Tentang
-•	Tentang Ehibah-Bansos
-•	Tahapan
+- Tentang Ehibah-Bansos
+- Tahapan
 #### 3.	Menu Proposal Hibah
-•	Kategori Hibah Bansos
-•	Status hibah Bansos
+- Kategori Hibah Bansos
+- Status hibah Bansos
 #### 4.	Mendaftar Hibah Bansos
 
 ### 2.2 Penggunaan
