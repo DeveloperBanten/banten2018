@@ -6,7 +6,7 @@ group: aplikasi
 cat: E-hibahbansos
 toc: true
 ---
-
+[![cover](../hibah-bansos/images/desain-dan-perancangan/cover-perancangan.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/alur-prototype.png)
 ## ABSTRAK
 Dewasa ini perkembangan teknologi komputer sangatlah pesat. Dengan menggunakan aplikasi komputer akan didapat informasi mengenai suatu tampilan objek yang ditampilkan lebih hidup dan menarik. Adanya kemajuan teknologi ini memungkinkan Sistem untuk menjalankan prosedur pemberian dana hibah dan bantuan sosial dapat berjalan lebih baik dan membantu masyarakat dan Pemerintah Provinsi Banten dalam menjalankan kegiatan yang berkaitan dengan hibah dan bantuan sosial yang lebih terstruktur dan lebih transparansi.
 
@@ -163,7 +163,9 @@ Berikut ini adalah hasil eksekusi sistem informasi Dashboard
 ##### 3.4.9.2 Layout Tampilan Generate
 [![koreksi](../hibah-bansos/images/desain-dan-perancangan/layuot_generate.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 #### 3.4.12 Layout Dashboard BPKAD
-[![dashboard-kesehatan](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-kesehatan.jpg)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-kesehatan.jpg)
+![tampilan BPKAD](../hibah-bansos/images/desain-dan-perancangan/layout_awal-bpkad.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+##### 3.4.12.1 Layout Tampilan Upload SPPD dan SPJ
+[![koreksi](../hibah-bansos/images/desain-dan-perancangan/layout_sppd-dan-spj.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 
 ## 4.PENUTUP
 
