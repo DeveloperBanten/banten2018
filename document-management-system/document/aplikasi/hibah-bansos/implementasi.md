@@ -98,3 +98,5 @@ Tampilan ini dapat diakses dengan cara mengklik "Laporan" pada bagian atas aplik
 Pada tampilan ini Superadmin dapat membuat laporan pertanggung jawaban untuk setiap laporan yang ada, dengan cara mengklik “Tambah” pada seperti diatas dan mengisi form yang tersedia. Maka akan tampil seperti gambar dibawah ini:
 
 [![tambah laporan](../hibah-bansos/images/impelementasi/tampilan-tambah-laporan-sa.png)](../hibah-bansos/images/impelementasi/tampilan-tambah-laporan-sa.png)
+
+
